@@ -3,7 +3,7 @@ send emails using php mailer [LARAVEL , PHP] projects
 
 steps : 
 
-1 - search about <span style = "color : red" >(composer)</span> in google 
+1 - search about <span style = "background-color : red" >(composer)</span> in google 
 <br>
 2 - install it on your windows
 <br>
